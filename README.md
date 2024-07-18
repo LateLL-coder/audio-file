@@ -1,0 +1,1 @@
+This contains two folders, one is Pre-Transcription, which contains two pre-transcription Guzheng audios (one is Three Melodies of Plum Blossoms, the other is Two Tigers); the other folder is Post-Transcription, which contains two post-transcription Guzheng audios (one is Three Melodies of Plum Blossoms, the other is Two Tigers).
